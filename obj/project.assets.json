@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/reyhane/Documents/reyhane/Project .net/Project .net.csproj",
+      "projectUniqueName": "/home/reyhane/Documents/reyhane/C#/Project .net/Project .net.csproj",
       "projectName": "Project .net",
-      "projectPath": "/home/reyhane/Documents/reyhane/Project .net/Project .net.csproj",
+      "projectPath": "/home/reyhane/Documents/reyhane/C#/Project .net/Project .net.csproj",
       "packagesPath": "/home/reyhane/.nuget/packages/",
-      "outputPath": "/home/reyhane/Documents/reyhane/Project .net/obj/",
+      "outputPath": "/home/reyhane/Documents/reyhane/C#/Project .net/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/reyhane/.nuget/NuGet/NuGet.Config"
